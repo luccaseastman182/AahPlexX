@@ -1,0 +1,25 @@
+course:
+  id: cms-001
+  modules:
+    - id: mod-1
+      title: "Change Management Fundamentals"
+      lessons:
+        - id: les-1-1
+          title: "Understanding Organizational Change"
+          content: "content/cms/mod1/lesson1.md"
+          duration: 45
+          quiz:
+            questions:
+              - question: "What are the three phases of Lewin's Change Model?"
+                options:
+                  - "Unfreeze, Change, Refreeze"
+                  - "Plan, Execute, Review"
+                  - "Analyze, Implement, Evaluate"
+                correct: 0
+        - id: les-1-2
+          title: "Change Management Models"
+          content: "content/cms/mod1/lesson2.md"
+          duration: 45
+          assignment:
+            title: "Model Comparison"
+            description: "Compare and contrast different change management models"

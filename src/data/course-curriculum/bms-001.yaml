@@ -1,0 +1,62 @@
+course:
+  id: "bms-001"
+  modules:
+    - id: "bms-m1"
+      title: "Introduction to Business Management"
+      lessons:
+        - id: "bms-m1-l1"
+          title: "Understanding Business Structures"
+          content_path: "/content/bms/m1/l1.md"
+          duration: 45
+          quiz:
+            questions:
+              - id: "bms-m1-l1-q1"
+                question: "What are the main types of business structures?"
+                options:
+                  - "Sole Proprietorship, Partnership, Corporation, LLC"
+                  - "Small Business, Medium Business, Large Business"
+                  - "Online Business, Offline Business, Hybrid Business"
+                correct: 0
+          assignment:
+            id: "bms-m1-l1-a1"
+            title: "Business Structure Analysis"
+            description: "Compare and contrast different business structures, analyzing their advantages and disadvantages."
+            submission_type: "document"
+            deadline_days: 7
+          resources:
+            - title: "Business Structure Comparison Chart"
+              type: "pdf"
+              path: "/resources/bms/m1/structure-comparison.pdf"
+            - title: "Case Study: Choosing the Right Structure"
+              type: "pdf"
+              path: "/resources/bms/m1/case-study-1.pdf"
+
+    - id: "bms-m2"
+      title: "Organizational Behavior"
+      lessons:
+        - id: "bms-m2-l1"
+          title: "Principles of Organizational Structure"
+          content_path: "/content/bms/m2/l1.md"
+          duration: 45
+          quiz:
+            questions:
+              - id: "bms-m2-l1-q1"
+                question: "What are the key elements of organizational structure?"
+                options:
+                  - "Hierarchy, Departmentalization, Chain of Command, Span of Control"
+                  - "Employees, Managers, CEO, Board"
+                  - "Sales, Marketing, Finance, Operations"
+                correct: 0
+          assignment:
+            id: "bms-m2-l1-a1"
+            title: "Organizational Structure Analysis"
+            description: "Analyze an existing organization's structure and propose improvements."
+            submission_type: "presentation"
+            deadline_days: 7
+          resources:
+            - title: "Organizational Structure Templates"
+              type: "pdf"
+              path: "/resources/bms/m2/org-templates.pdf"
+            - title: "Best Practices Guide"
+              type: "pdf"
+              path: "/resources/bms/m2/best-practices.pdf"

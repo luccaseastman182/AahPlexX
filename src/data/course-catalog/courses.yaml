@@ -1,0 +1,20 @@
+courses:
+  - id: "bms-7KPNM2XVHT"
+    title: "Business Management Specialist (BMS)"
+    # ... rest of the course data ...
+
+  - id: "dmp-9LQRS4WJNM"
+    title: "Digital Marketing Professional (DMP)"
+    # ... rest of the course data ...
+
+  - id: "dim-5HTXK8YVPQ"
+    title: "Diversity and Inclusion Management (DIM)"
+    # ... rest of the course data ...
+
+  - id: "dac-3MNPQ7WLRK"
+    title: "Data Analytics Certification (DAC)"
+    # ... rest of the course data ...
+
+  - id: "sboc-2VXJY6THPN"
+    title: "Sustainable Business Operations Certification (SBOC)"
+    # ... rest of the course data ...

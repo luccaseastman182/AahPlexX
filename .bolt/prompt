@@ -1,0 +1,15 @@
+For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+
+By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
+
+Use icons from lucide-react for logos.
+
+Use stock photos from unsplash where appropriate, only valid URLs you know exist. Do not download the images, only link to them in image tags.
+
+Your solutions must be production-ready, following industry best practices while maintaining excellent performance, accessibility, and user experience.
+
+DO NOT remove, reduce, or otherwise change the project structure with exlicit instruction
+
+Implement coding best practices whever possible, emphasize the quality and importance of encoding optimal, full-feature, UI and UX that leverage intuitive design, navigation, clutter free UI, dynamic use, feature-rich use, conflict and problem free. 
+
+Use robust and precision scripting to identify all errors and immediately correct the problems, while maintaining a  forward-moving, objectively focused appraoch to our code base and project. 

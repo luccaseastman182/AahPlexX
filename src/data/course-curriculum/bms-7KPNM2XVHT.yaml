@@ -1,0 +1,31 @@
+course:
+  id: "bms-7KPNM2XVHT"
+  modules:
+    - id: "bms-7KPNM2XVHT-m001-LMNPQ4WXYZ5"
+      title: "Introduction to Business Management"
+      lessons:
+        - id: "bms-7KPNM2XVHT-m001-LMNPQ4WXYZ5-l001-RSTUV6WXYZA"
+          title: "Understanding Business Structures"
+          content_path: "/content/bms/m1/l1.md"
+          duration: 45
+          quiz:
+            id: "bms-7KPNM2XVHT-m001-LMNPQ4WXYZ5-l001-RSTUV6WXYZA-q-BCDEF8GHIJK"
+            questions:
+              - id: "q001"
+                question: "What are the main types of business structures?"
+                options:
+                  - "Sole Proprietorship, Partnership, Corporation, LLC"
+                  - "Small Business, Medium Business, Large Business"
+                  - "Online Business, Offline Business, Hybrid Business"
+                correct: 0
+          assignment:
+            id: "bms-7KPNM2XVHT-m001-LMNPQ4WXYZ5-l001-RSTUV6WXYZA-a-KLMN2PQRST"
+            title: "Business Structure Analysis"
+            description: "Compare and contrast different business structures, analyzing their advantages and disadvantages."
+            submission_type: "document"
+            deadline_days: 7
+          resources:
+            - id: "bms-7KPNM2XVHT-m001-LMNPQ4WXYZ5-l001-RSTUV6WXYZA-r001-UVWX4YZABC"
+              title: "Business Structure Comparison Chart"
+              type: "pdf"
+              path: "/resources/bms/m1/structure-comparison.pdf"
